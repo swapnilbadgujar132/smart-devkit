@@ -1,5 +1,5 @@
 {
-  "name": "swapnil/smart-devkit",
+  "name": "swapnildev/smart-devkit",
   "description": "Smart Artisan Commands for Laravel Developers - Module, CRUD, Log Clear, Seeder etc.",
   "type": "library",
   "keywords": ["laravel", "artisan", "cli", "developer-tools", "backend", "smart"],
